@@ -5,5 +5,5 @@ cp ~/dotfiles/home/pryrc ~/.pryrc
 
 if [[ "$SPIN" = 1 ]]
 then
-  . ~/data/setup.sh
+  echo "Done preping for SPIN"
 fi
