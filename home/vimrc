@@ -56,6 +56,9 @@ set tabstop=2
 set lbr
 set tw=500
 
+set nofixeol
+set nofixendofline
+
 set ai "Auto indent
 set si "Smart indent
 set wrap "Wrap lines
